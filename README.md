@@ -17,7 +17,6 @@ Email Me 👉 ✉️ **amanpatel64907@gmail.com** For Collaboration/Project or A
 [![Website](https://img.shields.io/badge/Website-Notes_for_UG-blue)](https://notes-for-ug.onrender.com/)
 
 <!-- Snake Game Repo View -->
-
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
